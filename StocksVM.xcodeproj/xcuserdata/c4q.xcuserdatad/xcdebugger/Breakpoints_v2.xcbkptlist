@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4D576D86-394A-4D79-BA38-27E143FAD6AD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D11D2F0D-47F1-4308-BEEA-060D2517008C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StocksVM/Controllers/StocksTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "load()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D11D2F0D-47F1-4308-BEEA-060D2517008C - 3f88a4ff6d367dba"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StocksVM.StocksTableViewController.(load in _846A485717100F8F9CC7162DAB3FF6C5)() -&gt; ()"
+                  moduleName = "StocksVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/CoolStuff/StocksVM/StocksVM/Controllers/StocksTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  uuid = "D11D2F0D-47F1-4308-BEEA-060D2517008C - c7d667c8f2585cb9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;StocksVM.Stock&gt;, StocksVM.AppError&gt;) -&gt; () in StocksVM.StocksTableViewController.(load in _846A485717100F8F9CC7162DAB3FF6C5)() -&gt; ()"
+                  moduleName = "StocksVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/CoolStuff/StocksVM/StocksVM/Controllers/StocksTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "D11D2F0D-47F1-4308-BEEA-060D2517008C - 21820da52809eeb3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;StocksVM.Stock&gt;, StocksVM.AppError&gt;) -&gt; () in StocksVM.StocksTableViewController.(load in _846A485717100F8F9CC7162DAB3FF6C5)() -&gt; ()"
+                  moduleName = "StocksVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/c4q/Desktop/CoolStuff/StocksVM/StocksVM/Controllers/StocksTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "131">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
